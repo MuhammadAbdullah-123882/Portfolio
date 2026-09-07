@@ -4,7 +4,7 @@ A minimal, single-page personal portfolio built with plain HTML, CSS, and JavaSc
 
 ## 🔗 Live Site
 
-> Coming soon — will be linked here once the domain is live.
+https://muhammadabdullah-123882.github.io/Portfolio/
 
 ## 📌 About
 
